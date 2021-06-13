@@ -36,6 +36,8 @@ Third Pass:
 
 ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 ) 
 
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/02/bubble-sort1.png
+
 **Worst and Average Case Time Complexity:** O(n*n). Worst case occurs when array is reverse sorted.
 
 **Best Case Time Complexity:** O(n). Best case occurs when array is already sorted.
