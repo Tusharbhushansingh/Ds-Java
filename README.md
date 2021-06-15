@@ -11,9 +11,9 @@ For example: The below list of characters is sorted in increasing order of their
 
 character with higher ASCII value.
 
-[!image](https://www.geeksforgeeks.org/wp-content/uploads/sorting-algorithms.jpg)
+![image](https://www.geeksforgeeks.org/wp-content/uploads/sorting-algorithms.jpg)
 
-**Sorting Algorithms :
+**Sorting Algorithms :**
 
 - Bubble Sort
 - Selection Sort
