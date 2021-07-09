@@ -3,7 +3,9 @@ package com.tushar.sorting;
 public class QuickSort {
 
 	public static void main(String[] args) {
-		int[] arr = {15, 9, 7, 13, 12, 16, 4, 18, 11};
+		//int[] arr = {15, 9, 7, 13, 12, 16, 4, 18, 11};
+		//int[] arr = {13,-1, 7, 5, 8, 27};
+		int[] arr = {23, -2, 8, 67, 11, 28, 9, 34};
 		int len = arr.length;
 		QuickSort quicksort = new QuickSort();
 		quicksort.quickRecusion(arr,0,len-1);
